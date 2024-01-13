@@ -1,13 +1,13 @@
 {
-    "version": "09jan24",
+    "version": "13jan24",
     "description": "Programming language inspired by Rebol. Encapper for Red + Red/System compiler",
     "homepage": "https://www.red-lang.org",
     "license": {
         "identifier": "BSD-3-Clause,BSL-1.0",
         "url": "https://github.com/red/red#license"
     },
-    "url": "https://static.red-lang.org/dl/auto/win/red-toolchain-09jan24-d7cdfc365.exe#/red-toolchain.exe",
-    "hash": "8cc5999d0711dce3e6141fffce22ea70bf63b809b3205053c149593537e872f2",
+    "url": "https://static.red-lang.org/dl/auto/win/red-toolchain-13jan24-4b95ca192.exe#/red-toolchain.exe",
+    "hash": "50ba808e8ae9b57d74d968e0bbc42c01dbc00fbc1b0daec04f4e7c116d5719bb",
     "bin": "red-toolchain.exe",
     "checkver": {
         "url": "https://static.red-lang.org/dl/auto/win/history.html",
